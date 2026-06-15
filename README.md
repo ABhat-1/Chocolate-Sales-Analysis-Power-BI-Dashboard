@@ -6,11 +6,11 @@ The goal of this project is to analyze sales performance and provide actionable 
 
 ⚙️ Key Features
 
-KPI tracking (Total Sales, Profit, Orders, Quantity)
-Time-series analysis of sales trends (monthly/yearly)
-Product and category performance breakdown
-Regional/customer segment analysis
-Interactive filters for dynamic exploration
+1. KPI tracking (Total Sales, Profit, Orders, Quantity)
+2. Time-series analysis of sales trends (monthly/yearly)
+3. Product and category performance breakdown
+4. Regional/customer segment analysis
+5. Interactive filters for dynamic exploration
 
 🧹 Data Preparation
 
@@ -36,7 +36,7 @@ Bar/column charts for category comparisons
 Maps for regional performance (if applicable)
 Slicers for interactive filtering
 
-💡 Insights Delivered
+  Insights Delivered
 
 Identification of top-performing products and regions
 Understanding of seasonal sales trends
@@ -44,6 +44,7 @@ Analysis of profit contribution across categories
 Customer and segment-level performance insights
 
 🚀 Tools Used
+
 Microsoft Power BI
 Excel / CSV datasets
 DAX (Data Analysis Expressions)
