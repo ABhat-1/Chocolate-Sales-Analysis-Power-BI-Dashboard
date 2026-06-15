@@ -21,7 +21,7 @@ The goal of this project is to analyze sales performance and provide actionable 
 
 📐 Data Modeling & DAX
 
-1. Built a structured data model (fact and dimension tables)
+1. Built a structured data model
 2. Created DAX measures for:
 3. Total Sales
 4. Total Profit
@@ -33,8 +33,7 @@ The goal of this project is to analyze sales performance and provide actionable 
 1. KPI cards for high-level metrics
 2. Line charts for trend analysis
 3. Bar/column charts for category comparisons
-4. Maps for regional performance (if applicable)
-5. Slicers for interactive filtering
+4. Slicers for interactive filtering
 
   Insights Delivered
 
